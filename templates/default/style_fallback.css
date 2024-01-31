@@ -106,4 +106,15 @@
 .serendipity_msg_notice {
     color: green;
 }
+
+.serendipity_entry kbd {
+    background-color: #e3e6e8;
+    border-color: #9fa6ad;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    margin: 0 1.1px 0 1.1px;
+    padding: 1.1px 6.6px 1.1px 6.6px;
+    color: inherit;
+}
 /* END OF style_fallback.css */
